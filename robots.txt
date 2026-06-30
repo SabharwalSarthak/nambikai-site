@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nambik-ai.com/sitemap.xml
